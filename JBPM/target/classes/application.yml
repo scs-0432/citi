@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: JBPM
+server:
+  port: 8084
